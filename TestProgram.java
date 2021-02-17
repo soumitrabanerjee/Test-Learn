@@ -14,5 +14,6 @@ public class TestProgram{
     System.out.println(str);
     Test obj = new Test();
     obj.animal(str);
+    obj.animal("Modified");
   }
 }
