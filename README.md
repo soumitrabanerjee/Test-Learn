@@ -1,2 +1,2 @@
 # Test-Learn
-For learning purpoose
+For learning purpose
